@@ -14,11 +14,14 @@ Here you can find the following:
 ## Notebooks
 ### data_preprocessing_euroVotes_euroTour_euroTrade
 For the Eurovision votes, Euro countries trade and tourism data:
-- data collection, cleaning and preprocecing 
+- Data collection, cleaning and preprocecing 
 - Graph building for later analysis.
 
 ### youtube_comments_model_and_analysis
-- Our youtube comment BERT based classifier & comments analysis
+The notebook contains the following parts:
+- Youtube comments preprocsing and cleaning
+- Training our BERT based classifier 
+- Youtube comments analysis
 
 ### vote_behaviour_analysis
 - Analysis of social subjects on voting in ESC
