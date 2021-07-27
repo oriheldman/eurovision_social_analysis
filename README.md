@@ -11,12 +11,12 @@ Here you can find the following:
   - youtube_comments_model_and_analysis
   - vote_behaviour_analysis
 
-
-## data_preprocessing_euroVotes_euroTour_euroTrade
+## Notebooks
+### data_preprocessing_euroVotes_euroTour_euroTrade notebook
 - All data collection, cleaning and preprocecing
 
-## youtube_comments_model_and_analysis
+### youtube_comments_model_and_analysis notebook
 - Our youtube comment BERT based classifier & comments analysis
 
-## vote_behaviour_analysis
+### vote_behaviour_analysis notebook
 - Analysis of social subjects on voting in ESC
