@@ -1,4 +1,4 @@
-# eurovision_social_analysis
+# Eurovision Social Analysis
 NLP-SD project - An analysis of social behaviors in the Eurovision 
 
 ## Overview
@@ -11,4 +11,4 @@ Here you can find the following:
 
 ## Abstract
 
-## 
+## Source code
