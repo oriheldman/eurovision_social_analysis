@@ -14,6 +14,8 @@ Here you can find the following:
 
 
 ## TEST
+<embed src="https://github.com/oriheldman/eurovision_social_analysis/blob/main/Eurovision_Project%20(4).pdf" width="500" height="375">
+
 
 <object data="https://github.com/oriheldman/eurovision_social_analysis/blob/main/Eurovision_Project%20(4).pdf" type="application/pdf" width="700px" height="700px">
     <embed src="http://yoursite.com/the.pdf">
