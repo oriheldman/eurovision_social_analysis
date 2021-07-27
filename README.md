@@ -6,7 +6,7 @@ In this project we give an analysis of intersting public opinions of social beha
 Here you can find the following:
 - Our full report describing the motivation, our method, analysis and results
 - The source code of our work:
-  -- fefee
+  - fefee
 
 
 ## Abstract
