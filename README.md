@@ -9,19 +9,19 @@ Here you can find the following:
 - The source code of our work contains the following jupyter notebooks:
   - data_preprocessing_euroVotes_euroTour_euroTrade
   - youtube_comments_model_and_analysis
-  - vote_behaviour_analysis
+  - Predicting_Eurovision_Scores_Based_on_Trade_&_Tourism_Patterns
 
 ## Notebooks
 ### data_preprocessing_euroVotes_euroTour_euroTrade
 For the Eurovision votes, Euro countries trade and tourism data:
-- Data collection, cleaning and preprocecing 
+- Data collection, cleaning and preprocessing 
 - Graph building for later analysis.
 
 ### youtube_comments_model_and_analysis
 The notebook contains the following parts:
-- Youtube comments preprocsing and cleaning
+- Youtube comments preprocessing and cleaning
 - Training our BERT based classifier 
 - Youtube comments analysis
 
-### vote_behaviour_analysis
-- Analysis of social subjects on voting in ESC
+### Predicting_Eurovision_Scores_Based_on_Trade_&_Tourism_Patterns
+- Correlation analysis between the trade and tourism volumnes to the ESC voting patterns
